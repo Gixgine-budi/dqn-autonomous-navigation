@@ -72,7 +72,7 @@ Simplified DQN for CartPole-v1. Demonstrates core concepts without visual depend
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/dqn-autonomous-navigation.git
+git clone https://https://github.com/Gixgine-budi/dqn-autonomous-navigation.git
 cd dqn-autonomous-navigation
 pip install -r requirements.txt
 ```
